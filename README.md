@@ -19,3 +19,10 @@ This is a Python-based face detection and recognition system using OpenCV and a 
 - `sklearn.neighbors.KNeighborsClassifier`
 
 ## Folder Structure
+
+project-root/
+├── face_data/ # Folder to store face images and data
+├── train.py # Script to train the KNN model
+├── detect.py # Main script to detect and recognize faces
+├── data.pickle # Pickled face embeddings and labels
+└── README.md
