@@ -30,4 +30,13 @@ This is a Python-based face detection and recognition system using OpenCV and a 
 └── README.md
 ```
 
+## Usage
+
+1. **Collect face data**:
+   Run feed_data.py to collect face images and save them in `data/` with proper labeling.
+
+2. **RUN**:
+   Run detect.py to detect faces which are trained to the model.
+
+
 
